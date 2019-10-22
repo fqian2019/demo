@@ -1,0 +1,1 @@
+#!/bin/shtouch a.txtsleep 10echo "testtesttesttest">>a.txt
