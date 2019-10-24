@@ -1,1 +1,4 @@
-#!/bin/shtouch a.txtsleep 10echo "testtesttesttest">>a.txt
+#!/bin/sh
+touch a.txt
+sleep 10
+echo "testtesttesttest">>a.txt
